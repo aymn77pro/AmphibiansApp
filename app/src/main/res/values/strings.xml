@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AmphibiansApp</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="result">Success. Mars photos retrieved</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+</resources>
